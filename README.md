@@ -1,4 +1,5 @@
-# clu-demo
+# CLU
+### A very simple CLI tool that brings the power of OpenAI right to your terminal. Rather than googling commands and scanning docs any time you forgot the syntax for something, this tool eliminates all that frustration!
 
 ## Installation & Setup
 
@@ -18,7 +19,7 @@ Call `clu p "<your prompt>"` from any folder to call OpenAI.
 
 Examples:
 
-- `clu p "what's the cron syntax for twice weekly, on Mondays and Thursdays?"`
+- `clu p "what's the git command for saving a commit?"`
 - `clu p "what's the current weather in New Jersey?"`
 - `clu p "can chips be dinner?"`
 
